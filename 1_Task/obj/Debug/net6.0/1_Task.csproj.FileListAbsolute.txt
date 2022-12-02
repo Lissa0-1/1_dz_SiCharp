@@ -1,0 +1,30 @@
+C:\Users\Lissa\GikBreans\1_1\1_Task\bin\Debug\net6.0\1_Task.exe
+C:\Users\Lissa\GikBreans\1_1\1_Task\bin\Debug\net6.0\1_Task.deps.json
+C:\Users\Lissa\GikBreans\1_1\1_Task\bin\Debug\net6.0\1_Task.runtimeconfig.json
+C:\Users\Lissa\GikBreans\1_1\1_Task\bin\Debug\net6.0\1_Task.dll
+C:\Users\Lissa\GikBreans\1_1\1_Task\bin\Debug\net6.0\1_Task.pdb
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.csproj.AssemblyReference.cache
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.AssemblyInfoInputs.cache
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.AssemblyInfo.cs
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.csproj.CoreCompileInputs.cache
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.dll
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\refint\1_Task.dll
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.pdb
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\1_Task.genruntimeconfig.cache
+C:\Users\Lissa\GikBreans\1_1\1_Task\obj\Debug\net6.0\ref\1_Task.dll
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\bin\Debug\net6.0\1_Task.exe
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\bin\Debug\net6.0\1_Task.deps.json
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\bin\Debug\net6.0\1_Task.runtimeconfig.json
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\bin\Debug\net6.0\1_Task.dll
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\bin\Debug\net6.0\1_Task.pdb
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.csproj.AssemblyReference.cache
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.AssemblyInfoInputs.cache
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.AssemblyInfo.cs
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.csproj.CoreCompileInputs.cache
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.dll
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\refint\1_Task.dll
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.pdb
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\1_Task.genruntimeconfig.cache
+C:\Users\Lissa\Работа в VS\C#_Dz\1_1\1_Task\obj\Debug\net6.0\ref\1_Task.dll
